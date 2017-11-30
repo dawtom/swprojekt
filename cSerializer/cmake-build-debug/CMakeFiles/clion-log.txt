@@ -1,4 +1,0 @@
-/home/lenovo/Pulpit/IDEBibliotekiIInne/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/lenovo/Pulpit/Materiały/5. semestr/Mikro/cSerializer"
--- Configuring done
--- Generating done
--- Build files have been written to: /home/lenovo/Pulpit/Materiały/5. semestr/Mikro/cSerializer/cmake-build-debug
