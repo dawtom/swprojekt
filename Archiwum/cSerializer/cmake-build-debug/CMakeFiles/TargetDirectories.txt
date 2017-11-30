@@ -1,0 +1,3 @@
+/home/lenovo/Pulpit/Materiały/5. semestr/Mikro/cSerializer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lenovo/Pulpit/Materiały/5. semestr/Mikro/cSerializer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lenovo/Pulpit/Materiały/5. semestr/Mikro/cSerializer/cmake-build-debug/CMakeFiles/cSerializer.dir
